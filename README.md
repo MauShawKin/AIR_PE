@@ -1,4 +1,0 @@
-# HRNet_AIR
-# HRNet_AIR
-# AIR_PE
-# AIR_PE
